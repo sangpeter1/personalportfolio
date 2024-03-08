@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Peter Sang',
     description:
-      'Peter Sang is a full-stack software engineer who builds web applications that solve real-world problems',
+      'Peter Sang is a full-stack software engineer building web apps to solve real-world problems',
     siteUrl: 'https://sangpeter.com', // No trailing slash allowed!
     image: '/me.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@peterchan1224',
