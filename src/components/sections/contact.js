@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm open to work and/or colloborate on projects. Just send me a note and I’ll get back to
+        I'm open to work and/or collaborate on projects. Just send me a note and I’ll get back to
         you as soon as I can!
       </p>
 

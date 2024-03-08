@@ -7,14 +7,6 @@ module.exports = {
       url: 'https://github.com/sangpeter1',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/peterchanminsang',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/peterchan1224',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/peterchanminsang',
     },
