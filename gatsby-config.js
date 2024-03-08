@@ -4,9 +4,9 @@ module.exports = {
   siteMetadata: {
     title: 'Peter Sang',
     description:
-      'Peter Sang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://peterchanminsang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+      'Peter Sang is a full-stack software engineer who builds web applications that solve real-world problems',
+    siteUrl: 'https://sangpeter.com', // No trailing slash allowed!
+    image: '/me.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@peterchan1224',
   },
   plugins: [
