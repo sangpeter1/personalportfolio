@@ -74,14 +74,13 @@ const StyledPic = styled.div`
 
       .img {
         filter: none;
-        mix-blend-mode: normal;
       }
     }
 
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
+      mix-blend-mode: normal;
       transition: var(--transition);
     }
 
